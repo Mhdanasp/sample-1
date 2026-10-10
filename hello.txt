@@ -1,1 +1,5 @@
 x=a+b+c
+
+
+#devision mechganism 
+ div
